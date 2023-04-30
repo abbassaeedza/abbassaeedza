@@ -1,18 +1,15 @@
 ### 👋 Hi there,
 
-I’m Abbas Saeed, I'm a Computer Science student from Pakistan. Here's some info about me!
+I currently live in Pakistan and studying at BUKC.
+Email: abbassaeed.workspace@gmail.com.
 
-⚡ Work experience:
+Area of interest:
 
-None :D
+- Movies; Anime: Dark Fantasy, Thriller.
+- F1 Race.
+- Dark Psychology.
+- Philosophy.
+- Entrepreneurship.
 
-🌱 Interests:
 
-- F1 Racing
-- Machine Learning
-- AI
-
-Elsewhere:
-Email: abbassaeed.workspace@gmail.com | [AbbasSaeed](https://www.linkedin.com/in/) on LinkedIn
-
-Website: _underconstruction_
+[AbbasSaeed](https://www.linkedin.com/in/) on LinkedIn
