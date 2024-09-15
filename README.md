@@ -1,15 +1,9 @@
 ### 👋 Hi there,
 
 I currently live in Pakistan and studying at BUKC.
-Email: abbassaeed.workspace@gmail.com.
 
-Area of interest:
+Email: abbassaeedza@gmail.com.
 
-- Movies; Anime: Dark Fantasy, Thriller.
-- F1 Race.
-- Dark Psychology.
-- Philosophy.
-- Entrepreneurship.
+love going down in a rabbit hole
 
-
-[AbbasSaeed](https://www.linkedin.com/in/) on LinkedIn
+[LinkedIn](https://www.linkedin.com/in/abbassaeedza/)
