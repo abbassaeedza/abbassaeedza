@@ -1,7 +1,8 @@
 ### 👋 Hi there,
 
-I currently live in Pakistan and studying at BUKC.
+Moving towards marketing and sales.
 
-Email: abbassaeedza@gmail.com.
+[Linkedin](https://www.linkedin.com/in/abbassaeedza/)
+Email: abbassaeedza@gmail.com
 
 love going down in a rabbit hole
