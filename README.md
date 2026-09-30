@@ -5,7 +5,7 @@ Technical operator — I take a business or customer problem, design the system,
 **Selected systems**
 
 - [TalentBridge](https://github.com/abbassaeedza/talentbridge-frontend) — full-stack student/industry project-matching platform (Spring Boot + React), [backend here](https://github.com/abbassaeedza/talentbridge-backend)
-- [WhippyAI](https://github.com/abbassaeedza/whippyai) — real-time Spanish call-captioning desktop app (Electron, native macOS audio, Whisper + LLM translation, packaged releases (unsigned — internal tool))
+- [WhippyAI](https://github.com/abbassaeedza/whippyai) — real-time Spanish-to-English mortgage-call captioning desktop app, purpose-built for mortgage terminology (Electron, native macOS audio, Whisper + LLM translation, packaged releases (unsigned — internal tool))
 - [revenue-systems-lab](https://github.com/abbassaeedza/revenue-systems-lab) — clean-room implementations of GTM/revenue-ops patterns validated in production (enrichment waterfalls, CRM<->outbound sync, signal scoring)
 - [systems-case-studies](https://github.com/abbassaeedza/systems-case-studies) — sanitized architecture write-ups of production systems I've built
 - [contactmanagementapp](https://github.com/abbassaeedza/contactmanagementapp) — Spring Boot + React contact management backend
